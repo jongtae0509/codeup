@@ -1,1 +1,2 @@
-# codeup
+# Codeup
+코드업 
